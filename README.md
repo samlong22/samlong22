@@ -1,16 +1,33 @@
-## Hi there 👋
+# Hi, I'm Runhui Long 👋
 
-<!--
-**samlong22/samlong22** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a Master's student in Robotics at Carnegie Mellon University.
 
-Here are some ideas to get you started:
+My research interests lie at the intersection of **robot learning, manipulation, and planning**.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🔬 Research Interests
+
+- Robot Learning
+- Learning-based Manipulation
+- Planning and Learning
+- Mobile Manipulation
+- Human-Robot Interaction
+
+### 🎓 Education
+
+- **Carnegie Mellon University** — M.S. in Robotics
+- **Shanghai Jiao Tong University** — B.S.E. in Mechanical Engineering
+
+### 📚 Research
+
+**Robotics Autonomy and Planning Lab (RAP Lab)**  
+Shanghai Jiao Tong University
+
+Research on motion planning and mixed-integer optimization.
+
+### 🛠️ Skills
+
+Python · C++ · ROS 2 · Gurobi · PyTorch · MoveIt · Gazebo
+
+### 📫 Contact
+
+- GitHub: [@samlong22](https://github.com/samlong22)
